@@ -1,0 +1,10 @@
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Pets\bin\Debug\Pets.exe.config
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Pets\bin\Debug\Pets.exe
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Pets\bin\Debug\Pets.pdb
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Pets\obj\Debug\Pets.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Pets\obj\Debug\Pets.Properties.Resources.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Pets\obj\Debug\Pets.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Pets\obj\Debug\Pets.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Pets\obj\Debug\Pets.exe
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Pets\obj\Debug\Pets.pdb
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Pets\obj\Debug\Pets.frmSplash.resources
